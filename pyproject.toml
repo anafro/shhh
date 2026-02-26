@@ -1,14 +1,13 @@
 [project]
 name = "shhh"
-version = "0.0.0-dev"
+version = "0.0.0-dev.1"
 description = "Simple environment secret accessor for Python."
 authors = [
-    {name = "Anatoly Frolov (anafro)",email = "anatolyfroloff@gmail.com"}
+  { name = "Anatoly Frolov (anafro)", email = "anatolyfroloff@gmail.com" },
 ]
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = [
-]
+dependencies = []
 
 
 [build-system]
